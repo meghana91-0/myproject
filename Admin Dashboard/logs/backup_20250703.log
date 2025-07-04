@@ -1,0 +1,2 @@
+tar: Removing leading `../' from member names
+Thu Jul  3 20:27:34 CDT 2025: ✅ Backup successful for ../scripts to ../backups/scripts_backup_20250703_202733.tar.gz
